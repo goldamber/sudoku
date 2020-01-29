@@ -1,0 +1,29 @@
+D:\Моя папка\Projects\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.exe.config
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.exe.config
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.exe
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.pdb
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.csprojResolveAssemblyReference.cache
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\MainWindow.g.cs
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\App.g.cs
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11_MarkupCompile.cache
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11_MarkupCompile.lref
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\MainWindow.baml
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.g.resources
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.Properties.Resources.resources
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.csproj.GenerateResource.Cache
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.exe
+G:\Assigments\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.pdb
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.exe.config
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.exe
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\bin\Debug\Task_11.pdb
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\MainWindow.g.cs
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\App.g.cs
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11_MarkupCompile.cache
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11_MarkupCompile.lref
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\MainWindow.baml
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.g.resources
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.Properties.Resources.resources
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.csproj.GenerateResource.cache
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.csproj.CoreCompileInputs.cache
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.exe
+D:\In development\WPF\WPF\Task_11 (Exam)\Task_11\obj\Debug\Task_11.pdb
